@@ -1,0 +1,23 @@
+GLOBAL RANKING FOR n=564
+
+RANKING BY E[T] (Highest = Hardest):
+
+----------------------------------------
+s=2
+1. Uniform                   | E[T] = 1956.654
+2. Double Partition          | E[T] = 1935.806
+
+----------------------------------------
+s=3
+1. Uniform                   | E[T] = 1290.615
+2. Double Partition          | E[T] = 1283.134
+
+----------------------------------------
+s=188
+1. Uniform                   | E[T] = 17.550
+2. Double Partition          | E[T] = 7.192
+
+----------------------------------------
+s=282
+1. Uniform                   | E[T] = 10.501
+2. Double Partition          | E[T] = 3.694

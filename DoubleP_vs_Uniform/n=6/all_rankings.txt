@@ -1,0 +1,13 @@
+GLOBAL RANKING FOR n=6
+
+RANKING BY E[T] (Highest = Hardest):
+
+----------------------------------------
+s=2
+1. Uniform                   | E[T] = 6.932
+2. Double Partition          | E[T] = 6.748
+
+----------------------------------------
+s=3
+1. Uniform                   | E[T] = 4.328
+2. Double Partition          | E[T] = 3.694

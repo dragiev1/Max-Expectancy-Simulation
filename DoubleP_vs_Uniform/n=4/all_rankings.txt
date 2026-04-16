@@ -1,0 +1,13 @@
+GLOBAL RANKING FOR n=4
+
+RANKING BY E[T] (Highest = Hardest):
+
+----------------------------------------
+s=2
+1. Uniform                   | E[T] = 3.789
+2. Double Partition          | E[T] = 3.709
+
+----------------------------------------
+s=2
+1. Uniform                   | E[T] = 3.806
+2. Double Partition          | E[T] = 3.672

@@ -1,0 +1,23 @@
+GLOBAL RANKING FOR n=200
+
+RANKING BY E[T] (Highest = Hardest):
+
+----------------------------------------
+s=2
+1. Uniform                   | E[T] = 585.898
+2. Double Partition          | E[T] = 580.927
+
+----------------------------------------
+s=5
+1. Uniform                   | E[T] = 233.547
+2. Double Partition          | E[T] = 225.246
+
+----------------------------------------
+s=40
+1. Uniform                   | E[T] = 26.784
+2. Double Partition          | E[T] = 16.296
+
+----------------------------------------
+s=100
+1. Uniform                   | E[T] = 9.028
+2. Double Partition          | E[T] = 3.660
